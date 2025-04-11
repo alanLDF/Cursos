@@ -3,4 +3,5 @@
  
  Comecei os trabalhos. Primeiro curso:
 
- * Git&GitHub (CursoEmVideo).
+ * Git&GitHub (CursoEmVideo)
+ * MYSQL (CursoEmVideo)
